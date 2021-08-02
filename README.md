@@ -1,2 +1,2 @@
 # projeto-calculadora
-projeto simmples para calculos
+projeto simples para calculos
