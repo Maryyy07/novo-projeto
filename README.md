@@ -1,2 +1,2 @@
-# novo-projeto
-projeto teste
+# projeto-calculadora
+projeto simmples para calculos
